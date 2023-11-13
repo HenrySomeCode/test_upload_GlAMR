@@ -1,0 +1,1 @@
+cp /ps/scratch/mkocabas/developments/cvpr2021_projects/pare/logs/cam_reg/pano_scalenet_v3_softargmax_biased_l2_lw10/22-02-2021_18-32-46_pano_scalenet_v3_softargmax_biased_l2_lw10_train/tb_logs/0/checkpoints/epoch=29-step=375269.ckpt camcalib_sa_biased_l2.ckpt
